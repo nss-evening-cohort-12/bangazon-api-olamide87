@@ -28,4 +28,4 @@ wheel = "*"
 pillow = "*"
 
 [requires]
-python_version = "3.8.1"
+python_version = "3.8.2"
